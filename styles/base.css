@@ -1,0 +1,9 @@
+body {
+  background: gray;
+  background-image: url(/images/background.jpg);
+  background-size: cover;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
